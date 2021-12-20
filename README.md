@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning CG. 
+- 🔭 I’m currently working on GPU programming and physical simulation.
+- ⚡ Emotion: calm now
 <!--
 **Chluuu/Chluuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
